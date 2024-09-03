@@ -1,8 +1,10 @@
 
+
+
+```
 将更改推送到 main 分支并等待 GitHub Action 工作流完成。你应该看到站点部署到 https://<username>.github.io/[repository]/ 或 https://<custom-domain>/，这取决于你的设置。你的站点将在每次推送到 main 分支时自动部署。
-
-
 https://zhuwenyun.github.io/kg-note/
+```
 
 
 
