@@ -1,3 +1,13 @@
+
+将更改推送到 main 分支并等待 GitHub Action 工作流完成。你应该看到站点部署到 https://<username>.github.io/[repository]/ 或 https://<custom-domain>/，这取决于你的设置。你的站点将在每次推送到 main 分支时自动部署。
+
+
+https://zhuwenyun.github.io/kg-note/
+
+
+
+
+
 说明
 
 - workflow_dispatch
@@ -22,3 +32,33 @@
 - ‌**步骤划分**‌：‌在GitHub Actions的工作流程中，‌使用uses可以将多个命令封装在一个action中执行，‌这样在工作流程中只算作一个步骤。‌而使用run时，‌每个run关键字下的命令都会被视为一个独立的步骤，‌如果其中一个命令失败，‌可以更容易地定位问题所在。‌
 
 综上所述，‌uses和run在执行方式和步骤划分上存在差异，‌根据具体需求选择使用。‌
+
+
+
+
+```yml
+- name: Setup Node.js environment
+  uses: actions/setup-node@v4.0.3
+  with:
+    # Set always-auth in npmrc.
+    always-auth: # optional, default is false
+    # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
+    node-version: # optional
+    # File containing the version Spec of the version to use.  Examples: package.json, .nvmrc, .node-version, .tool-versions.
+    node-version-file: # optional
+    # Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.
+    architecture: # optional
+    # Set this option if you want the action to check for the latest available version that satisfies the version spec.
+    check-latest: # optional
+    # Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN.
+    registry-url: # optional
+    # Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/).
+    scope: # optional
+    # Used to pull node distributions from node-versions. Since there's a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.
+    token: # optional, default is ${{ github.server_url == 'https://github.com' && github.token || '' }}
+    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.
+    cache: # optional
+    # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
+    cache-dependency-path: # optional
+          
+```
