@@ -33,7 +33,8 @@ export default defineConfig({
         text: 'reasoning',
         collapsed: true,
         items: [
-          { text: '逻辑加强', link: '/reasoning/logic_support' }
+          { text: '逻辑加强', link: '/reasoning/logic_support' },
+          { text: '数量论证', link: '/reasoning/logic_num' },
         ]
       },
       {
