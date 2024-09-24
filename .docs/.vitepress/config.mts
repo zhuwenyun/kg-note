@@ -1,8 +1,8 @@
-import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // https://vitepress.dev/reference/site-config
 // https://vitepress.dev/zh/reference/site-config
-export default defineConfig({
+export default withMermaid({
   title: "My Awesome Project",
   description: "A VitePress Site",
   // base: '/kg-note/',
@@ -119,5 +119,10 @@ export default defineConfig({
         }
       }
     }
+  },
+  
+  mermaid: {
+  },
+  mermaidPlugin: {
   }
 })
