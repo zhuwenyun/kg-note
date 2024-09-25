@@ -44,6 +44,7 @@ export default withMermaid({
           { text: '语句排序', link: '/speech/sort' },
           { text: '标题拟定', link: '/speech/select_title' },
           { text: '下文推断', link: '/speech/select_next_article' },
+          { text: '结构分析', link: '/speech/jiegou' },
         ]
       },
       {
