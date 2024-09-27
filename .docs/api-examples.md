@@ -3,6 +3,19 @@ outline: deep
 ---
 
 ```mermaid
+erDiagram
+    p fill:#f9f,stroke:#333,stroke-width:2px;
+    p[Person] {
+        string firstName
+        string lastName
+    }
+    a["Customer Account"] {
+        string email
+    }
+    p ||--o| a : has
+```
+
+```mermaid
 mindmap
   root((mindmap))
     Origins
