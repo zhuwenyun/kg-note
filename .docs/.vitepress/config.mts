@@ -35,6 +35,7 @@ export default withMermaid({
         items: [
           { text: '逻辑加强', link: '/reasoning/logic_support' },
           { text: '数量论证', link: '/reasoning/logic_num' },
+          { text: '翻译推理', link: '/reasoning/translate' },
         ]
       },
       {
