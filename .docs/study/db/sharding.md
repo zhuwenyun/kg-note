@@ -628,7 +628,7 @@ public class ClassPathMapperScanner extends ClassPathBeanDefinitionScanner {
             definition.setBeanClass(this.mapperFactoryBean.getClass());
             //设置属性值
             definition.getPropertyValues().add("addToConfig", this.addToConfig);
-            
+
             boolean explicitFactoryUsed = false;
             if (StringUtils.hasText(this.sqlSessionFactoryBeanName)) {
                 definition.getPropertyValues().add("sqlSessionFactory", new RuntimeBeanReference(this.sqlSessionFactoryBeanName));
@@ -686,5 +686,82 @@ public @interface MapperScan {
 
 @MapperScan(value = "com.xxx.dao")
 public class Application {
+}
+```
+
+
+
+
+
+```java
+@Configuration
+@Slf4j
+public class MybatisConfig {
+    @Bean
+    ConfigurationCustomizer mybatisConfigurationCustomizer() {
+        log.info("add mybatisConfigurationCustomizer!");
+        return new ConfigurationCustomizer() {
+            @Override
+            public void customize(org.apache.ibatis.session.Configuration configuration) {
+                configuration.addInterceptor(new DynamicDataSourceInterceptor());
+            }
+        };
+    }
+}
+
+
+@Intercepts({
+        @Signature(type = Executor.class, method = "queryCursor", args = { MappedStatement.class, Object.class,
+                RowBounds.class }),
+        @Signature(type = StatementHandler.class, method = "prepare", args = { Connection.class, Integer.class }),
+        @Signature(type = Executor.class, method = "update", args = { MappedStatement.class, Object.class }),
+        @Signature(type = Executor.class, method = "query", args = { MappedStatement.class, Object.class,
+                RowBounds.class, ResultHandler.class, CacheKey.class, BoundSql.class }),
+        @Signature(type = Executor.class, method = "query", args = { MappedStatement.class, Object.class,
+                RowBounds.class, ResultHandler.class }), })
+@Slf4j
+public class DynamicDataSourceInterceptor implements Interceptor {
+    @Override
+    public Object intercept(Invocation invocation) throws Throwable {
+        Object targetObject = invocation.getTarget();
+        if (targetObject instanceof Executor) {
+            MappedStatement mappedStatement = (MappedStatement) invocation.getArgs()[0];
+            Object parameterObject = invocation.getArgs()[1];
+            // 获取Dao执行的方法信息。 例如：com.a.b.UserDao.addUser
+            String methodInfo = mappedStatement.getId();
+            // 获取Dao层面的目标执行方法。
+            int splitIndex = methodInfo.lastIndexOf(".");
+            String className = methodInfo.substring(0, splitIndex);
+            Class<?> classObject = Class.forName(className);
+            TargetDataSource targetDataSource = classObject.getAnnotation(TargetDataSource.class);
+            if (null != targetDataSource) {
+                DataSourceLocalKeys.CURRENT_VDS_KEY.set(targetDataSource.value());
+                DataSourceLocalKeys.CURRENT_DS_GROUP_KEY.set(targetDataSource.dbkey());
+            }
+            // log.info("DynamicDataSourceInterceptor current data source is {}.",
+            // DataSourceLocalKeys.CURRENT_VDS_KEY.get());
+        }
+        try {
+            return invocation.proceed();
+        } finally {
+            DataSourceLocalKeys.CURRENT_VDS_KEY.remove();
+            DataSourceLocalKeys.CURRENT_DS_GROUP_KEY.remove();
+        }
+    }
+
+    @Override
+    public Object plugin(Object target) {
+        if (target instanceof StatementHandler) {
+            return Plugin.wrap(target, this);
+        } else if (target instanceof Executor) {
+            return Plugin.wrap(target, this);
+        } else {
+            return target;
+        }
+    }
+
+    @Override
+    public void setProperties(Properties properties) {
+    }
 }
 ```
