@@ -47,7 +47,8 @@ export default withMermaid({
           { text: '标题拟定', link: '/speech/select_title' },
           { text: '下文推断', link: '/speech/select_next_article' },
           { text: '结构分析', link: '/speech/jiegou' },
-          { text: '逻辑填空', link: '/speech/logic_fill_in' }
+          { text: '逻辑填空', link: '/speech/logic_fill_in' },
+          { text: '逻辑填空2', link: '/speech/logic_fill_in2' },
         ]
       },
       {
