@@ -15,11 +15,20 @@ export default withMermaid({
         text: 'luojituili',
         items: [
           {
-            text: 'tuxingtuili',
+            text: '图形推理',
             items: [
               {
                 text: '2008',
                 link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question'
+              }
+            ]
+          },
+          {
+            text: '类比推理',
+            items: [
+              {
+                text: '2008',
+                link: '/xingce/panduantuili/leibituili/zhenti/2008/question'
               }
             ]
           },
@@ -36,6 +45,12 @@ export default withMermaid({
             text: '图形推理',
             items:[
               { text: '2008', link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question' },
+            ]
+          },
+          { 
+            text: '类比推理',
+            items:[
+              { text: '2008', link: '/xingce/panduantuili/leibituili/zhenti/2008/question' },
             ]
           },
         ]
