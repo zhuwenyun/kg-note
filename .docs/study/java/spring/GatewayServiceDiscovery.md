@@ -1,4 +1,5 @@
-/project/META-INF/spring.factories
+
+`/project/META-INF/spring.factories`
 ```factories
 # AutoConfiguration
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
