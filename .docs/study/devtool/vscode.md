@@ -25,3 +25,42 @@ dotjs-syntax
 方便识别dot.js的代码
 
 翻译（英汉词典）
+
+
+
+## 快捷键
+
+### 根据搜索的结果全部添加光标
+{
+  "key": "shift+cmd+l",
+  "command": "addCursorsAtSearchResults",
+  "when": "fileMatchOrMatchFocus && searchViewletVisible"
+}
+
+### 在行尾向上或向下添加光标
+{
+  "key": "alt+cmd+down",
+  "command": "editor.action.insertCursorBelow",
+  "when": "editorTextFocus"
+}
+{
+  "key": "alt+cmd+up",
+  "command": "editor.action.insertCursorAbove",
+  "when": "editorTextFocus"
+}
+
+### 点击添加多个光标
+alt+鼠标左键
+
+### 选中内容然后向上或向下复制
+{
+  "key": "shift+alt+down",
+  "command": "notebook.cell.copyDown",
+  "when": "notebookEditorFocused && !inputFocus"
+}
+{
+  "key": "shift+alt+up",
+  "command": "notebook.cell.copyUp",
+  "when": "notebookEditorFocused && !inputFocus"
+}
+

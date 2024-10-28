@@ -12,16 +12,34 @@ export default withMermaid({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
       {
-        text: 'test',
+        text: 'luojituili',
         items: [
-          { text: 'nums', link: '/item-1' },
-          { text: 'reasoning', link: '/reasoning/logic_support' },
-          { text: 'speech', link: '/speech/sort' }
+          {
+            text: 'tuxingtuili',
+            items: [
+              {
+                text: '2008',
+                link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question'
+              }
+            ]
+          },
         ]
       }
     ],
 
     sidebar: [
+      {
+        text: '判断推理',
+        collapsed: true,
+        items: [
+          { 
+            text: '图形推理',
+            items:[
+              { text: '2008', link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question' },
+            ]
+          },
+        ]
+      },
       {
         text: 'Examples111',
         items: [
@@ -132,7 +150,7 @@ export default withMermaid({
       }
     }
   },
-  
+
   mermaid: {
   },
   mermaidPlugin: {
