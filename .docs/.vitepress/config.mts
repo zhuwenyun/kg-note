@@ -36,6 +36,8 @@ export default withMermaid({
             text: '国家',
             items:[
               { text: '2008', link: '/xingce/zhenti/guojia/2008' },
+              { text: '2009', link: '/xingce/zhenti/guojia/2009' },
+              { text: '2010', link: '/xingce/zhenti/guojia/2010' },
             ]
           },
           { 

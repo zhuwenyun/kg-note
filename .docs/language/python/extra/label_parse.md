@@ -2,13 +2,23 @@
 
 ## 正则表达式
 正则表达式是一种强大而灵活的文本匹配工具，可以用来从HTML文本中提取标签内容。
+
+
+
 ```python
 import re
 
-html = "<div class='content'>Hello,World!</div>"
+html = "<div class='content'>Hello,one</div><div class='content'>Hello,two</div>"
 pattern = r"<div class='content'>(.*?)</div>"
+# 匹配方式一
 result = re.findall(pattern,html)
-print(result) #输出：['Hello,World!']
+print(result) #输出：['Hello,one', 'Hello,two']
+
+# 匹配方式二
+match = re.search(pattern, html)
+if match:
+    text = match.group(1)
+    print(text)  # 输出：Hello World
 ```
 
 ```python
