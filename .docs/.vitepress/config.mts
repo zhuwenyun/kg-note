@@ -12,45 +12,36 @@ export default withMermaid({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
       {
-        text: 'luojituili',
+        text: '历年真题',
         items: [
           {
-            text: '图形推理',
+            text: '国家',
             items: [
               {
                 text: '2008',
-                link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question'
+                link: '/xingce/zhenti/guojia/2008'
               }
             ]
-          },
-          {
-            text: '类比推理',
-            items: [
-              {
-                text: '2008',
-                link: '/xingce/panduantuili/leibituili/zhenti/2008/question'
-              }
-            ]
-          },
+          }
         ]
       }
     ],
 
     sidebar: [
       {
-        text: '判断推理',
+        text: '历年',
         collapsed: true,
         items: [
           { 
-            text: '图形推理',
+            text: '国家',
             items:[
-              { text: '2008', link: '/xingce/panduantuili/tuxingtuili/zhenti/2008/question' },
+              { text: '2008', link: '/xingce/zhenti/guojia/2008' },
             ]
           },
           { 
-            text: '类比推理',
+            text: '湖北',
             items:[
-              { text: '2008', link: '/xingce/panduantuili/leibituili/zhenti/2008/question' },
+              { text: '2008', link: '/xingce/panduantuili/leibituili/zhenti/2008/test' },
             ]
           },
         ]
@@ -118,5 +109,9 @@ export default withMermaid({
   mermaid: {
   },
   mermaidPlugin: {
+  },
+
+  markdown:{
+    math: true
   }
 })

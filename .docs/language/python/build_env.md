@@ -59,6 +59,14 @@ conda activate paddle_env
 where python
 ```
 
+### 如何在激活的conda环境中安装包
+conda install numpy --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+
+‌conda-forge是由社区维护的一个Conda通道，提供了许多开源软件包，这些软件包可能不在默认的Conda通道中提供‌。conda-forge是Anaconda包管理器的一部分，它允许用户从该通道安装额外的软件包。‌
+
+conda install -c conda-forge lxml
+
+
 ## pycharm 使用 anaconda 环境
 ### 新建项目选择自定义环境中的anaconda
 pycharm 创建项目时，使用 anaconda 搭建环境。
