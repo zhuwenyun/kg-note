@@ -1,4 +1,4 @@
-
+<!-- 
 
 ## 如何定义组件？
 当使用构建步骤时，我们一般会将 Vue 组件定义在一个单独的 .vue 文件中，这被叫做单文件组件 (简称 SFC)：
@@ -35,7 +35,7 @@ export default {
 ## 如何使用组件？
 ### 局部注册
 要使用一个子组件，我们需要在父组件中导入它。假设我们把计数器组件放在了一个叫做 ButtonCounter.vue 的文件中，这个组件将会以默认导出的形式被暴露给外部。
-```vue
+```javascript
 <script setup>
 import ButtonCounter from './ButtonCounter.vue'
 </script>
@@ -47,6 +47,7 @@ import ButtonCounter from './ButtonCounter.vue'
 ```
 如果没有使用 <script setup>，则需要使用 components 选项来显式注册：
 对于每个 components 对象里的属性，它们的 key 名就是注册的组件名，而值就是相应组件的实现。上面的例子中使用的是 ES2015 的缩写语法，等价于：
+
 ```vue
 import ComponentA from './ComponentA.js'
 
@@ -60,6 +61,7 @@ export default {
   }
 }
 ```
+
 通过 <script setup>，导入的组件都在模板中直接可用。
 当然，你也可以全局地注册一个组件，使得它在当前应用中的任何组件上都可以使用，而不需要额外再导入。
 
@@ -187,4 +189,4 @@ const post = {
 
 如何一次生成多个组件列表？
 组件内部采用循环的方式处理
-
+ -->
