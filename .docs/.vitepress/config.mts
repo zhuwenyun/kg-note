@@ -38,6 +38,14 @@ export default withMermaid({
               { text: '2008', link: '/xingce/zhenti/guojia/2008' },
               { text: '2009', link: '/xingce/zhenti/guojia/2009' },
               { text: '2010', link: '/xingce/zhenti/guojia/2010' },
+              { text: '2011', link: '/xingce/zhenti/guojia/2011' },
+              { text: '2012', link: '/xingce/zhenti/guojia/2012' },
+              { text: '2013', link: '/xingce/zhenti/guojia/2013' },
+              { text: '2014', link: '/xingce/zhenti/guojia/2014' },
+              { text: '2015', link: '/xingce/zhenti/guojia/2015' },
+              { text: '2016', link: '/xingce/zhenti/guojia/2016' },
+              { text: '2017', link: '/xingce/zhenti/guojia/2017' },
+              { text: '2018', link: '/xingce/zhenti/guojia/2018' },
             ]
           },
           { 
