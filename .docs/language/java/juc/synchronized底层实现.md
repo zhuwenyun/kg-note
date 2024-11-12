@@ -16,3 +16,17 @@ recursions
 严@还没秃头
 
 
+混合增长率公式
+溶液 = 溶剂 + 溶质
+浓度 = 溶质 / 溶液
+
+
+混合比重介于各部分比重之间，且偏向于基数较大的一方
+
+
+ssh @ovlqlkwogc.bastionhost.aliyuncs.com -p 60022
+
+ssh -p60022 zhuwenyun@ovlqlkwogc.bastionhost.aliyuncs.com
+ssh -p60022 zhuwenyun@rjqovprlgb.bastionhost.aliyuncs.com
+
+

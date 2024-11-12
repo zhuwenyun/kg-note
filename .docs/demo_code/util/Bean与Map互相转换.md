@@ -106,4 +106,3 @@ public static <T> T map2Bean(Map<String, ?> map, Class<T> clazz) {
     }
 }
 ```
-

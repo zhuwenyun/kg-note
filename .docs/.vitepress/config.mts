@@ -50,6 +50,8 @@ export default withMermaid({
               { text: '2020', link: '/xingce/zhenti/guojia/2020' },
               { text: '2021', link: '/xingce/zhenti/guojia/2021' },
               { text: '2022', link: '/xingce/zhenti/guojia/2022' },
+              { text: '2023', link: '/xingce/zhenti/guojia/2023' },
+              { text: '2024', link: '/xingce/zhenti/guojia/2024' },
             ]
           },
           { 
