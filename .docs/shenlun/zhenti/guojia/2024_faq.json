@@ -1,0 +1,193 @@
+{
+    "data": {
+      "essayPaper": {
+        "paperId": 5671,
+        "limitTime": 10800,
+        "score": 100.0,
+        "paperName": "2024年国考《申论》试卷（副省级）网友回忆版",
+        "correctNum": 0,
+        "recentStatus": 0,
+        "answerCardId": 0,
+        "courseId": 0,
+        "courseType": 0,
+        "areaId": 0,
+        "correctMode": 1,
+        "startTime": 0,
+        "endTime": 0,
+        "paperCorrectMode": 3
+      },
+      "essayQuestions": [
+        {
+          "sort": 1,
+          "questionBaseId": 18878,
+          "questionDetailId": 18762,
+          "stem": "2024年国考（副省级）：简要总结“耀然灯饰”成功的经验",
+          "limitTime": 1500,
+          "score": 10.0,
+          "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、“耀然灯饰”的发展，是星河镇灯饰企业发展的缩影。请你根据“给定资料1”，简要总结“耀然灯饰”成功的经验。（10分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：全面、准确、有条理。不超过200字。</p>",
+          "inputWordNumMin": 1,
+          "inputWordNumMax": 200,
+          "commitWordNumMax": 200,
+          "answerList": [
+            {
+              "questionId": 18762,
+              "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.不断创新产品，引领消费需求。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.重视产品研发，不断提升产品的科技含量。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.针对市场的发展，找准市场定位，打造全新的品牌形象。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.深耕细分市场，建立全面、多元的产品体系。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.创新打造线上线下相结合的全方位渠道，提高与消费者的触达能力。</p>",
+              "topic": "",
+              "subTopic": "",
+              "callName": "",
+              "inscribedDate": "",
+              "inscribedName": "",
+              "answerFlag": 0,
+              "id": 20242,
+              "bizStatus": 1,
+              "status": 1,
+              "creator": "",
+              "modifier": "",
+              "gmtCreate": "2024-01-03 11:21:53",
+              "gmtModify": "2024-01-03 11:21:53"
+            }
+          ],
+          "type": 1,
+          "convertCount": 0,
+          "standAnswerType": 0
+        },
+        {
+          "sort": 2,
+          "questionBaseId": 18879,
+          "questionDetailId": 18763,
+          "stem": "2024年国考（副省级）：谈谈议论主要涉及哪些问题并分别予以简要说明",
+          "limitTime": 2100,
+          "score": 20.0,
+          "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、新民乐走红引发了网民的诸多议论。请你根据“给定资料2”，谈谈这些议论主要涉及了哪些问题，并分别予以简要说明。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：归类合理，分条列示，简洁准确。不超过400字。</p>",
+          "inputWordNumMin": 1,
+          "inputWordNumMax": 400,
+          "commitWordNumMax": 400,
+          "answerList": [
+            {
+              "questionId": 18763,
+              "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、新民乐存在的问题为：1.新民乐价值小，脱离了传统民乐的本质特色，不利于民乐的传承。2.新民乐定义模糊、界限不清晰。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、新民乐走红的意义为：1.反映文化自信和国力上升，有利于我国音乐文化多样化发展，有利于民乐的发展。2.新民乐同时代接轨、反映时代特色，是随时代发展所作出的创新，势不可挡。3.新民乐赋予传统民乐生命力，代表着民间传统民乐的复兴。4.新民乐有助于民乐走出国门。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、新民乐发展的建议有：1.演奏者和从业者需要坚持自身的审美与艺术修养，避免媚俗，实现对观众的引领。2.民乐要同不同的文化和科技进行碰撞。3.不要作太多太细的界定，避免与其他音乐门类产生排他性。4.新民乐属于一种发展道路的探索，应对其持有包容的态度。在探索中需要关注作曲家、演奏者与听众的共同参与。</p>",
+              "topic": "",
+              "subTopic": "",
+              "callName": "",
+              "inscribedDate": "",
+              "inscribedName": "",
+              "answerFlag": 0,
+              "id": 20251,
+              "bizStatus": 1,
+              "status": 1,
+              "creator": "",
+              "modifier": "",
+              "gmtCreate": "2024-01-04 13:40:25",
+              "gmtModify": "2024-01-04 13:40:25"
+            }
+          ],
+          "type": 1,
+          "convertCount": 0,
+          "standAnswerType": 0
+        },
+        {
+          "sort": 3,
+          "questionBaseId": 18880,
+          "questionDetailId": 18764,
+          "stem": "2024年国考（副省级）：分析产生这种心态的原因并提出对策",
+          "limitTime": 1800,
+          "score": 15.0,
+          "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、“给定资料3”中提到小李感觉自己陷入了“两难”境地。请你分析小李产生这种心态的原因，并提出走出这种境地的对策。（15分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：分析全面，对策得当，逻辑清晰。不超过350字。</p>",
+          "inputWordNumMin": 1,
+          "inputWordNumMax": 350,
+          "commitWordNumMax": 350,
+          "answerList": [
+            {
+              "questionId": 18764,
+              "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小李陷入了继续从事传统汽车制造业还是转型新能源汽车产业而产生焦虑的困境。产生这种心态的原因主要有：1.由于新能源汽车市场规模快速扩大，传统汽车制造企业业务萎缩、发展前景不确定；2.新能源汽车企业虽收入高，但工作量巨大，工作压力大，让人很难适应。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：1.摆正就业心态，就业不必过分追求高新待遇，从事自己感兴趣的专业更有价值。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.提升自身业务能力。做好现在的本职工作，深入钻研本行业相关理念与技术，不断了解新领域，将二者进行结合，开拓新领域，为今后工作准备充足的优势条件。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.做好自身的未来规划，主动付诸实践。面对产业的转型升级要积极接受，不必过分焦虑，充分研判行业的发展形势，主动作出改变。</p>",
+              "topic": "",
+              "subTopic": "",
+              "callName": "",
+              "inscribedDate": "",
+              "inscribedName": "",
+              "answerFlag": 0,
+              "id": 20816,
+              "bizStatus": 1,
+              "status": 1,
+              "creator": "",
+              "modifier": "",
+              "gmtCreate": "2024-02-27 15:49:20",
+              "gmtModify": "2024-02-27 15:49:20"
+            }
+          ],
+          "type": 3,
+          "convertCount": 0,
+          "standAnswerType": 0
+        },
+        {
+          "sort": 4,
+          "questionBaseId": 18881,
+          "questionDetailId": 18765,
+          "stem": "2024年国考（副省级）：草拟汇报的主要内容",
+          "limitTime": 2400,
+          "score": 20.0,
+          "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、“给定资料4”反映了C市高标准农田建设过程中的一些情况。调研结束后，督导调研组拟向局领导汇报调研情况，并提出改进建议。假如你是调研组成员，请草拟汇报的主要内容。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）紧扣资料，内容全面；（2）简明扼要，条理清晰；（3）不超过500字。</p>",
+          "inputWordNumMin": 1,
+          "inputWordNumMax": 500,
+          "commitWordNumMax": 500,
+          "answerList": [
+            {
+              "questionId": 18765,
+              "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;建设高标准农田，是推动传统农业向现代农业发展，巩固和提高粮食生产能力、保障国家粮食安全的关键举措。习近平总书记历来很重视高标准农田建设。近年来，C市在高标准农田建设中全面落实藏粮于地、藏粮于技战略，取得了良好的成效，但也存在一定问题。现将相关情况汇报如下：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、主要做法及成效<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 完善田间配套设施，提高生产效益。利用高标准农田建设项目资金，对田间沟、渠、桥、涵、路进行修复重建，丰富土地功能、提高种植效益，提升农民种粮积极性。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 整合土地资源、推进产业结构调整，提升农业综合效益。整合分散土地资源，规模化种植，提升农民收入。因地制宜推进产业结构调整，发展特色优势产业，提高农业综合效益。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、主要问题<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.审核验收管理不严格，地块图文与实际不符。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.工作形式化，没有严格按照要求执行。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.缺乏对高标准农田建设政策的宣传，村民不了解相关政策要求。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、建议：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.加强审核管理。细致调研，确保地块的实际用途与图片标注相一致。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.强化工作考核。加强对工作人员实际工作成效的考核，避免出现应付、形式化的问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.强化宣传工作。加强对相关政策的宣传，确保村民充分了解。</p>",
+              "topic": "关于C市高标准农田建设情况的汇报材料",
+              "subTopic": "",
+              "callName": "",
+              "inscribedDate": "",
+              "inscribedName": "",
+              "answerFlag": 0,
+              "id": 20814,
+              "bizStatus": 1,
+              "status": 1,
+              "creator": "",
+              "modifier": "",
+              "gmtCreate": "2024-02-27 14:18:27",
+              "gmtModify": "2024-02-27 14:18:27"
+            }
+          ],
+          "type": 4,
+          "convertCount": 0,
+          "standAnswerType": 0
+        },
+        {
+          "sort": 5,
+          "questionBaseId": 18882,
+          "questionDetailId": 18766,
+          "stem": "2024年国考（副省）：深入思考“我们要用积极的态度对旧事物的价值进行最大挖掘，让它们重新焕发生机”写文章",
+          "limitTime": 4200,
+          "score": 35.0,
+          "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、“给定资料5”中提到：“我们要用积极的态度对旧事物的价值进行最大挖掘，让它们重新焕发生机”，请你对此进行深入思考，参考给定资料，联系实际，自选角度，自拟题目，写一篇文章。（35分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）观点明确，见解深刻；（2）参考给定资料，但不拘泥于给定资料；（3）思路清晰，语言流畅；（4）字数1000—1200字。</p>",
+          "inputWordNumMin": 900,
+          "inputWordNumMax": 1200,
+          "commitWordNumMax": 1200,
+          "answerList": [
+            {
+              "questionId": 18766,
+              "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从事旧物回收的陈先生提到：“我们要用积极的态度对旧事物的价值进行最大挖掘，让他们重新焕发生机”。这句话给出了我们深刻的启示。这里的“旧事物”指的是在历史发展过程中留存下来的老物件。它们中不仅具有丰富的经济价值有待挖掘，而且还蕴含着独特的精神文化价值，承载着人民的情感和记忆。因此，我们要充分挖掘旧事物中的价值，让其在新时代能够重新焕发生机。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们应充分挖掘旧事物中的经济价值。“旧事物”本身就存在使用和收藏价值，随着二手商品市场的兴起，旧物买卖成为了一个极具潜力的市场，蕴含着丰富的经济价值，值得我们去充分挖掘。如果对旧事物作更深入的理解，以传统技艺为代表的传统文化也是旧事物的组成部分，这其中更蕴含着丰富的经济价值。通过博物馆展览文物以及举办传统民俗活动，吸引着全国各地游客慕名前来，直接推动旅游业的发展；对文创产品的不断开发、借助传统文化打造各类文化产品，极大的丰富了文化产业的内涵。所有这些都是旧事物中体现出的经济价值，值得我们深入挖掘。从更广阔的空间层面来讲，我国的丝绸、瓷器、陶器等大量文化产品，成为串联起“一带一路”文化纽带，不断促进沿途各国经济合作发展。由此可以看出，我们应充分挖掘旧事物中的经济价值。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们应充分挖掘旧事物的精神文化价值。一些老物件由于和当前的时代潮流不一致，会被很多人当成是陈旧的、落后的，这其实是对旧物的一种错误认知。旧物件代表的是某个历史阶段或某个地域的生活方式、审美风格，具有其独特的时代性、地域性，如果能充分挖掘，就能让人们在使用旧物的过程中感受不一样的生活体验。现在很多酒店、民宿特意打造复古风格，20世纪60、70年代的家居环境、农村贴近自然的院落设计，反而吸引很多年轻人趋之若鹜。与此同时，旧物中蕴含着那个时代的情感和记忆，是创造者和使用者的所经历的故事。无论是上世纪50年代的老式收音机，还是明清时代的古董青花瓷，都承载着一个时代的记忆和文化积淀。通过老物件的保存和收藏，我们可以深入地了解那个时代的人文历史，体验到那些赋予物件生命、气息和意义的背景。因此，我们应充分挖掘旧物的精神文化价值。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;充分挖掘旧事物的价值，需要保持积极的态度，让它们焕发生机。这就需要我们充分认识到旧事物的经济及精神文化价值，结合时代的特点、充分运用最新的技术，让旧事物的价值得以充分展示，焕发生机。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;器物是有灵性的。不管是我们生活中的旧家具、老照片，还是传统技艺，都记载了人们的生活趣事与波澜，传递着一个时代的风俗与变迁，只要我们与它们沟通、对话、交流，对它们的价值进行最大挖掘，就能让这些旧物件焕发生机，与时代协行。</p>",
+              "topic": "充分挖掘价值，让“旧事物”焕发生机",
+              "subTopic": "",
+              "callName": "",
+              "inscribedDate": "",
+              "inscribedName": "",
+              "answerFlag": 0,
+              "id": 20815,
+              "bizStatus": 1,
+              "status": 1,
+              "creator": "",
+              "modifier": "",
+              "gmtCreate": "2024-02-27 15:33:11",
+              "gmtModify": "2024-02-27 15:33:11"
+            }
+          ],
+          "type": 5,
+          "convertCount": 0,
+          "standAnswerType": 0
+        }
+      ]
+    },
+    "code": 1000000
+  }

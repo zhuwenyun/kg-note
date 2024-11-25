@@ -1,0 +1,191 @@
+{
+  "data": {
+    "essayPaper": {
+      "paperId": 4985,
+      "limitTime": 10800,
+      "score": 100.0,
+      "paperName": "2023年国考《申论》试卷（行政执法）",
+      "correctNum": 0,
+      "recentStatus": 0,
+      "answerCardId": 0,
+      "courseId": 0,
+      "courseType": 0,
+      "areaId": 0,
+      "correctMode": 1,
+      "startTime": 0,
+      "endTime": 0,
+      "paperCorrectMode": 3
+    },
+    "essayQuestions": [
+      {
+        "sort": 1,
+        "questionBaseId": 16073,
+        "questionDetailId": 15957,
+        "stem": "2023年国考（行政执法）：谈谈A市是如何利用GEP核算实现生态产品价值的",
+        "limitTime": 1500,
+        "score": 10.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、GEP反映了生态系统产生的直接、间接或潜在的经济效益。请你根据“给定资料1”，谈谈A市是如何利用GEP核算实现生态产品价值的。（10分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：全面、准确、有条理。不超过200字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 200,
+        "commitWordNumMax": 200,
+        "answerList": [
+          {
+            "questionId": 15957,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.明确生态资源优势，开发特色项目，合理有序地转化为经济效益。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.组建生态强村公司，负责公共生态产品供给和市场化交易，加速生态产品价值转化。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.推出金融产品，以生态产品的使用经营权作为质押担保，解决资金需求，激活生态产品的金融属性。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.推动生态优势转化为产业优势，发展环境敏感型产业，把生态产品价值作为生产要素参与企业利润分配。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.进行碳汇量交易，获益资金反哺湿地生态建设，提升生态系统碳汇能力。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 17576,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2023-03-23 17:23:59",
+            "gmtModify": "2023-03-23 17:23:59"
+          }
+        ],
+        "type": 1,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 2,
+        "questionBaseId": 16074,
+        "questionDetailId": 15958,
+        "stem": "2023年国考（行政执法）：写一份发言提纲",
+        "limitTime": 2400,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、H市计划召开关于促进本市“无人经济”新业态健康发展的座谈会。假如你是市场监管部门的参会代表，将在座谈会上发言。请根据“给定资料2”，写一份发言提纲。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）紧扣资料，内容具体；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）层次分明，有逻辑性；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）不超过450字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 450,
+        "commitWordNumMax": 450,
+        "answerList": [
+          {
+            "questionId": 15958,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大家好！当前，我市涌现出无人配送车、无人便利店等“无人经济”新业态，满足了消费者对安全、便利和多元生活的需求，拥有很大的发展空间和潜力。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不过，我市“无人经济”仍存在一些问题：一是缺乏经营许可审批标准，存在经营范围不明、相关许可证发放依据不清等问题；二是存在监管盲区，索赔回应慢，管理不规范、品质良莠不齐、存在安全隐患等问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为促进我市“无人经济”新业态的健康发展，我们将：一、完善经营许可审批体系。召集各方专家研究讨论，采用“客观报告+专家评审”的方式联合审议，确定经营许可审批标准，明确经营范围、相关许可证发放依据等；二、加强科学监管。明确监管主体和监管职责，严格按照相关政策和法律对违法违规行为进行管理，联合多个职能部门履行相关监管职责。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对“无人经济”这一全新业态，我们持开放和欢迎的态度，但也会审慎对待，坚守底线，科学监管，促进其健康发展。</p>",
+            "topic": "关于促进“无人经济”新业态健康发展的发言提纲",
+            "subTopic": "",
+            "callName": "各位领导、同事：",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 17577,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2023-03-23 17:25:29",
+            "gmtModify": "2023-03-29 11:46:58"
+          }
+        ],
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 3,
+        "questionBaseId": 16075,
+        "questionDetailId": 15959,
+        "stem": "2023年国考（行政执法）：草拟一份汇报提纲",
+        "limitTime": 2400,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、D市语言文字规范化联合整治工作组拟向上级汇报实施整治工作的思路，请你根据“给定资料3”，草拟一份汇报提纲。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）内容全面，重点突出；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）层次分明，条理清晰；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）不超过450字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 450,
+        "commitWordNumMax": 450,
+        "answerList": [
+          {
+            "questionId": 15959,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为进一步贯彻落实国家要求，大力推进语言文字规范化标准化建设，我工作组将对全市语言文字的使用情况进行为期两个月的整治，现把整治思路汇报如下：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、统一认识。语言文字的规范化内涵要与时俱进，坚持在发展中规范，在规范中发展，也要符合文字本身的演变规律。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、摸底排查。通过实地走访、发动群众等多种途径收集语言文字使用的问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、依法整治。对于一些极其不规范，甚至是错误的语言，要坚决依法惩治。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、监督指导。指导网络平台持续总结不规范使用汉字现象并定期公布，推进平台规则的透明化。要求出版单位加强自查，指导相关行业协会联合发出规范用字倡议，遴选推荐优秀字体，引导出版、影视、媒体领域提升规范用字的自觉意识。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、加强宣传。通过现场指导、微信微博等线上线下方式，倡导规范使用语言文字，提高商家及群众规范用字意识，对汉字的使用树立起敬畏之心。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上就是我市语言文字规范化整治工作的思路。</p>",
+            "topic": "关于D市语言文字规范化整治工作的汇报提纲",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 17578,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2023-03-23 17:26:34",
+            "gmtModify": "2023-03-23 17:26:34"
+          }
+        ],
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 4,
+        "questionBaseId": 16076,
+        "questionDetailId": 15960,
+        "stem": "2023年国考（行政执法）：撰写一篇案例摘要",
+        "limitTime": 2100,
+        "score": 15.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、有关部门正在征集知识产权服务优秀案例，计划编印《知识产权服务案例汇编》。假如L市知识产权信息服务中心的相关实践入选为优秀案例，请你根据“给定资料4”，撰写一篇案例摘要。（15分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）紧扣资料，内容全面，突出做法和意义；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）表述准确，条理清晰；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）不超过300字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 300,
+        "commitWordNumMax": 300,
+        "answerList": [
+          {
+            "questionId": 15960,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘要：L市知识产权信息服务中心在推动市场主体对知识产权制度的有效运用落实过程中多措并举，促进了企业发展。一是制定标准。派专项组进驻乡镇，引导出台联盟标准及地方标准，促进标准化和规范化生产，助力“川兴米粉”正式成为国家地理标志产品。二是科技赋能。服务中心为“丰禾庄园”分析发展“痛点”，精准对接高端科研团队，协助企业引进先进技术，促进产品增产与提档升级。三是塑造品牌。服务中心为“伊山山珍”量身制定商标注册方案、宣讲商标法等，提高销量；联合多部门共同推动特色发展模式，推广主导产业，打造“伊山山珍”拳头产品，产品受到顾客青睐和市场欢迎。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 17579,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2023-03-23 17:27:45",
+            "gmtModify": "2023-03-23 17:27:45"
+          }
+        ],
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 5,
+        "questionBaseId": 16078,
+        "questionDetailId": 15962,
+        "stem": "2023年国考（行政执法）：深入思考学者文章的有关内容写文章",
+        "limitTime": 4200,
+        "score": 35.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、请你深入思考“给定资料5”中这位学者文章的有关内容，参考给定资料，联系实际，自选角度，自拟题目，写一篇文章。(35分)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)观点明确，见解深刻;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)参考给定资料，但不拘泥于给定资料;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)思路清晰，语言流畅;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)字数1000～1200字。</p>",
+        "inputWordNumMin": 900,
+        "inputWordNumMax": 1200,
+        "commitWordNumMax": 1200,
+        "answerList": [
+          {
+            "questionId": 15962,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“长期价值”是与“短期价值”相比较而言的，指的是持续不断的做一件事情，并且在不断积累的过程中形成一种利益关系，且长期有效，但短时间内很难看到成绩，如教育事业、环保事业等。在这个“黑天鹅”乱飞、“灰犀牛”常伴的年代，人人都寄希望于找到对抗不确定性的终极武器。但遗憾的是，万能钥匙并不存在，永恒不变的准则也不存在，我们无法控制变化，更无法预知未来，我们能把握的只有自己。因此，必须增加自身应对不确定性的韧性和能力，这就要求我们不要为眼前的得失所左右，要不断把时间和精力投入到追寻长期价值中来。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;追寻长期价值，才能收获长远发展。我国现在已经进入了高质量发展阶段，如果一味地目光短浅、追求短期利益，可能会获得一时的经济增长，但会与高质量发展目标渐行渐远，甚至背道而驰。曾几何时，我国落入了“山寨”的窠臼，“山寨”意味着大量可供支配的资源、简单易行的操作方式和高速的经济发展速度。在山寨时期，我国赢得了短暂的高速发展，却失去了世界的长久信任。在环境保护和经济发展的深刻命题上，我们也走了不少弯路。曾记得，那“与海争地海让路，向山要粮山听遣”的口号多么的豪迈和坚定，我们用四年时间开垦出了10多万平方公里的农场，开辟了新的发展空间，但是7年后的一场台风不仅吞噬了这片土地，还让很多人失去了宝贵的生命。不管是史实还是现实，都告诫我们：要心怀信念、立足长远，保持对长期价值的不断追寻与探索。于是，我们高举建设创新型国家的旗帜，用一个个中国创造重塑世界印象；我们提出碳达峰碳中和目标，用环保的决心和行动，向世界彰显大国风范。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;追寻长期价值不仅是国家发展转型的必然路径，也是企业持续壮大发展的良策妙方，更是个人修炼和自我价值实现的根本方法。首先政府要有担当，高瞻远瞩、把握方向，关注基础领域，做好教育、科学和人文，为长远发展打好基础。其次企业要坚持创新，充分发挥企业家精神，在不断创新、不断创造价值的历程中，提升企业核心竞争力。最后个人要保持清醒，抵御机会主义和风口主义的诱惑，做到不跟风、不盲从、不急功近利，努力学习最有效率的思维方式和行为标准。在纷繁复杂的世界中，变化可能是唯一永恒的主题，只要站在长期价值的维度上，把事情看清楚想透彻，把价值创造出来，就能走上一条持续稳定的发展之路。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;流水不争先，争的是滔滔不绝。追寻长期价值不仅是一种方法论，更是一种价值观。无论从事任何工作和事业，只要着眼于长远，躬耕于价值，就一定能够经受时间的考验，从容应对“未知的未知”，让发展行稳致远。</p>",
+            "topic": "追寻长期价值，发展行稳致远",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 17580,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2023-03-23 17:28:49",
+            "gmtModify": "2023-03-23 17:28:49"
+          }
+        ],
+        "type": 5,
+        "convertCount": 0,
+        "standAnswerType": 0
+      }
+    ]
+  },
+  "code": 1000000
+}

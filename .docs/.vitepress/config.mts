@@ -63,10 +63,17 @@ export default withMermaid({
         ]
       },
       {
-        text: 'Examples111',
+        text: '历年',
+        collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '国家', items: [
+            {text:"2024",link:"/shenlun/zhenti/guojia/2024"},
+            {text:"2023",link:"/shenlun/zhenti/guojia/2023"},
+            {text:"2022",link:"/shenlun/zhenti/guojia/2022"},
+            {text:"2021",link:"/shenlun/zhenti/guojia/2021"},
+            {text:"2020",link:"/shenlun/zhenti/guojia/2020"},
+          ] },
+          { text: '湖北', items: [] }
         ]
       },
       {

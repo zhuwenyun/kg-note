@@ -1,0 +1,190 @@
+{
+  "data": {
+    "essayPaper": {
+      "paperId": 870,
+      "limitTime": 10800,
+      "score": 100.0,
+      "paperName": "2020年国考《申论》试卷（副省级）",
+      "correctNum": 0,
+      "recentStatus": 0,
+      "answerCardId": 0,
+      "courseId": 0,
+      "courseType": 0,
+      "areaId": 0,
+      "correctMode": 1,
+      "startTime": 0,
+      "endTime": 0,
+      "paperCorrectMode": 3
+    },
+    "essayQuestions": [
+      {
+        "sort": 1,
+        "questionBaseId": 2314,
+        "questionDetailId": 2198,
+        "stem": "2020年国考（副省级）：请你概括L省在人才的政治引领方面的主要举措",
+        "limitTime": 1500,
+        "score": 10.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、根据“给定资料1”，请你概括L省在人才的政治引领方面的主要举措。(10分)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：全面、准确、有条理。不超过200字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 200,
+        "commitWordNumMax": 200,
+        "answerList": [
+          {
+            "questionId": 2198,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.坚持党管人才，着力构建起权责明确、务实管用的组织结构。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.强化思想引领，牢筑思想阵地。内容有：习总书记的人才论述，四个意识，红色教育等。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.举办高层次人才主题学习，注重典型示范作用，感召广大人才投身全省建设。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.开展对口帮扶，锻炼人才队伍。主要选派金融、医疗卫生方面的人才到西部和革命老区。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.抓好情感纽带，实施结对联系。建立了联系制度，坚持“四必访两必到”，注重“关键小事”等。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 3634,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2020-03-02 16:59:16",
+            "gmtModify": "2020-03-02 16:59:16"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）阅卷方法：按点给分，一共5个要点，每点2分，共计10分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）具体要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.党管人才或组织结构。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.强化思想引领。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.举办主题学习，树典型。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.开展对口帮扶活动。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.抓好感情纽带，结对联系。（2分）</p>",
+        "type": 1,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 2,
+        "questionBaseId": 2315,
+        "questionDetailId": 2199,
+        "stem": "2020年国考（副省级）：M农场的案例为新时代青年创业提供了哪些启示",
+        "limitTime": 0,
+        "score": 15.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“给定资料2”中，M农场的案例为新时代青年创业提供了哪些启示？（15分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：分析全面，条理清晰。不超过300字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 300,
+        "commitWordNumMax": 300,
+        "answerList": [
+          {
+            "questionId": 2199,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.善于用好人工智能、物联网、大数据等技术手段，提质、增效，降成本。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.以满足国家和社会需求为初衷，有担当、有责任感、使命感；提供有价值的产品。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.创新商业模式，实现多产业融合发展，打造新型产业链。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.转变思想观念，善于从传统产业中发现创业机会。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 3635,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2020-03-02 17:02:56",
+            "gmtModify": "2020-03-02 17:03:55"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按点给分，一共5个要点，每点3分，共计15分。具体要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.用好技术/高科技。（3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.满足社会和国家需求，责任、使命或担当。（3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.提供有价值产品/做出好产品。（3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.多产业融合发展。（3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.善于从传统产业中发现创业机会。（3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他的根据用词相近度，酌情给分。</p>",
+        "type": 6,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 3,
+        "questionBaseId": 2316,
+        "questionDetailId": 2200,
+        "stem": "2020年国考（副省级）：拟定脱贫攻坚队下一步工作的主要任务及措施",
+        "limitTime": 2100,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、假设你是队长小陈，请根据“给定资料3”提供的调查日志内容，拟定脱贫攻坚队下一步工作的主要任务及措施。(20分)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：要点完整，措施具体，条理清晰。不超过500字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 500,
+        "commitWordNumMax": 500,
+        "answerList": [
+          {
+            "questionId": 2200,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.集中发展优势产业。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）集中发展马铃薯、中医药、食用菌等优势产业；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打造产业园区，集中发展，走规模化产业化道路；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）和科研院所合作，引进一批专业化农技人员；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）拓宽产业附加值，发展乡村旅游，促进产业融合发展；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）广泛宣传与引导，鼓励农民回乡发展；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）以市场为导向，适应市场需求，做好产品推荐。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.解决医疗与教育问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）定点帮扶因病致贫群众，在疾病救治方面提供专业化治疗方案，在生产发展上提供优惠政策支持；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）积极寻求人才支持。如展开多方位人才交流项目，引导大城市教育、医疗人才对本县支持；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）多方寻求资金和资源支持，弥补本县教育和医疗硬件的不足。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 3636,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2020-03-02 17:06:54",
+            "gmtModify": "2020-03-02 17:07:01"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）阅卷方法，按点给分，共计20分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）具体要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.（一）阅卷方法，按点给分，共计20分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）具体要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.集中发展优势产业。 （1分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）集中发展马铃薯、中医药、食用菌等优势产业；（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打造产业园区，集中发展，走规模化产业道路；（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）和科研院所合作，引进一批专业化农技人员； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）拓宽产业附加值，发展乡村旅游，促进产业融合发展； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）广泛宣传与引导，鼓励农民回乡发展； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）以市场为导向，适应市场需求，做好产品推荐。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.解决医疗与教育问题。 （1分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）定点帮扶因病致贫群众，在疾病救治方面提供专业化治疗方案，在生产发展上提供优惠政策支持； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）积极寻求人才支持。如展开多方位人才交流项目，引导大城市教育、医疗人才对本县支持； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）多方寻求资金和资源支持，弥补本县教育和医疗硬件的不足。 （2分）发展优势产业。 （1分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）集中发展马铃薯、中医药、食用菌等优势产业；（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打造产业园区，集中发展，走规模化产业道路；（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）和科研院所合作，引进一批专业化农技人员； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）拓宽产业附加值，发展乡村旅游，促进产业融合发展； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）广泛宣传与引导，鼓励农民回乡发展； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）以市场为导向，适应市场需求，做好产品推荐。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.解决医疗与教育问题。 （1分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）定点帮扶因病致贫群众，在疾病救治方面提供专业化治疗方案，在生产发展上提供优惠政策支持； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）积极寻求人才支持。如展开多方位人才交流项目，引导大城市教育、医疗人才对本县支持； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）多方寻求资金和资源支持，弥补本县教育和医疗硬件的不足。 （2分）</p>",
+        "type": 3,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 4,
+        "questionBaseId": 2317,
+        "questionDetailId": 2201,
+        "stem": "2020年国考（副省级）：撰写调研报告中“问题”与“建议”这两部分内容的提纲",
+        "limitTime": 2400,
+        "score": 25.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、调研结束后,共青团H省委拟起草一份关于促进快递配送从业青年职业发展和社会融入的调研报告。假设你是该调研组成员,请根据“给定资料4”,撰写调研报告中“问题”与“建议”这两部分内容的提纲。(25分)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：(1)问题梳理全面、准确；(2)所提建议有针对性、切实可行；(3)不超过500字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 500,
+        "commitWordNumMax": 500,
+        "answerList": [
+          {
+            "questionId": 2201,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;问题：1.快递人员权益得不到有效保障。表现为：（1）少数快递公司用工制度不完善，规避劳动法，不与员工签订劳动合同；（2）工作时长严重超标等；（3）快递公司内部的管理制度不合理，过于苛刻，简单的“以罚代管”。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.归属感或认同感差。表现为：（1）快递职业得不到社会的尊重、理解和认可；（2）所在城市归属感差，很难融入社会；（3）快递行业吸引力不足，流动性大，也致使行业离职率高，用工成本增加。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;建议：1.各级团组织要主动关注，积极联系，有效覆盖快递行业从业人员，切实帮助其解决生活与工作中的问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.有关部门要尽快统一快递人员的职业准入和培训标准，对快递人员的业务水平、职业素养等加以提高；要加强对于违反劳动法、非法用工行为的打击力度；要加强宣传引导提升公众对快递小哥的理解和尊重，让他们工作得有尊严、更体面，更好地融入社会。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.建议快递企业也要给快递人员提供发展通道和晋升平台，让他们有盼头，要想办法减轻他们的生活压力；要制定更加合理的业务管理制度，不能简单的“以罚代管”。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 3638,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2020-03-02 17:11:17",
+            "gmtModify": "2020-03-02 17:55:58"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）阅卷方法，按点给分，共计25分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）具体要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;问题：1.快递人员权益得不到有效保障。表现为：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）少数快递公司存在用工制度不完善，规避劳动法，不与员工签订劳动合同； （2分） 任意一点可给1分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）工作时长严重超标； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）快递公司管理不合理，或过于苛刻，或“以罚代管”。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.归属感或认同感差。表现为：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）快递职业得不到社会的尊重、理解和认可； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）所在城市归属感差，很难融入社会； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）快递行业吸引力不足，流动性大，也致使行业离职率高，用工成本增加。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;建议：（1）各级团组织要主动关注，积极联系，有效覆盖快递行业从业人员，切实帮助其解决生活与工作中的问题。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）有关部门要尽快统一快递人员的职业准入和培训标准，对快递人员的业务水平、职业素养等加以提高； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要加强对于违反劳动法、非法用工行为的打击力度； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要加强宣传引导提升公众对快递小哥的理解和尊重，让他们工作得有尊严、更体面，更好的融入社会。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）建议快递企业也要给快递人员提供发展通道和晋升平台，让他们有盼头，要想办法减轻他们的生活压力； （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要制定更加合理的业务管理制度，不能简单的“以罚代管” 。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赋分说明：形式上，如果问题和建议分开写加1分。</p>",
+        "type": 1,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 5,
+        "questionBaseId": 2318,
+        "questionDetailId": 2202,
+        "stem": "2020国考申论（副省级）：以“海纳百川 聚四方之才”为题，撰写推介讲话稿",
+        "limitTime": 3000,
+        "score": 30.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、假设你是S省省委人才发展局的工作人员，请根据“给定资料5”，以“海纳百川 聚四方之才”为题，为S省省委人才发展局有关负责人撰写宣讲会上的推介讲话稿。（30分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）角色定位准确；（2）内容切合主题；（3）语言流畅，有感染力；（4）字数800-1000字。</p>",
+        "inputWordNumMin": 800,
+        "inputWordNumMax": 1000,
+        "commitWordNumMax": 1000,
+        "answerList": [
+          {
+            "questionId": 2202,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大家好！欢迎参加S省引进高层次人才政策宣讲会，很荣幸代表S省省委人才发展局向大家介绍S省引进高层次人才的相关政策。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“千秋基业，人才为本”。古往今来，人才的得失都决定着国势盛衰、天下兴亡。正所谓“治国之道，务在举贤”“为政之要，惟在得人”，人才的可贵在于其通过自身的知识与能量创造社会价值，推动时代发展。因此，习近平同志强调“要把我们的事业发展好，就要聚天下英才而用之”。当前进入全面深化改革攻坚期，我省重任在肩，为谋发展之业，我们求贤若渴，希望聚四方英才，成就发展蓝图。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我省十分重视高层次人才引进工作，更有充分的理由让人才能够愿意来、留得住。我省坚持把人才作为第一资源，以习近平总书记人才工作重要思想为统领，加强全省人才工作顶层设计和制度安排。以《百万人才进S省行动计划》为抓手，不断完善人才引进、管理、评价、流动、激励、保障等领域的制度体系，为广大人才提供创业就业制度保障。我省还十分注重人才服务，逐步建立健全了人才制度体系，以衣食住行等全方位的生活保障，让人才来到我省创业就业不再有后顾之忧。与此同时，我省还以新一轮党政机构改革为契机，建立起统一高效的党管人才领导体制，用力度创高度，用诚心换热心，吸引人才来我省一展才能。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同时，我省人才工作突出重点，聚焦需求，加强高层次人才引进力度。我省精细设计了引进高层次人才重点项目——大师级人才、杰出人才引进计划。从航天工程到热带特色农业，从海洋科学到生物工程，我省聚焦科教文卫等重点领域，集中政策和资金，用更高的待遇、更好的生活条件，团队式引进大师级人才、杰出人才。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;栽下梧桐树，引得凤凰来。逐梦的疆场已经搭建，筑梦的蓝图已在谱写。未来，我们将以优美的环境、清新的空气、便利的交通、广阔的发展前景、强大的制度保障诚邀八方来客，诚待四海英才，让每一个有梦的人都能在这一方沃土中展现风采，活得精彩！<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谢谢大家！</p>",
+            "topic": "海纳百川  聚四方之才",
+            "subTopic": "",
+            "callName": "尊敬的各位来宾：",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 3640,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2020-03-02 17:49:29",
+            "gmtModify": "2020-09-27 10:21:35"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阅卷方法：从结构、内容和表达三个方面分档给分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.结构完整，符合讲话稿的一般结构。按照标题—称谓—自我介绍—简单问候—正文—总结—致谢。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.正文部分，符合材料事实。应体现出：（1）习近平的人才指导思想；（2）我省组织制度和后勤服务的充分保障；（3）重点项目的介绍；（4）环境、交通的吸引力等。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.语言部分，语言流利畅达，感染力强，字数适当。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.分档次，如下：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一类文：26-30分。结构完整，内容全面，语言流畅，有感染力，不少于800字。以28分为基准，上下浮动。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二类文：21-25分。结构完整，内容较全面，语言流畅，不少于800字。以23分为基准，上下浮动。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三类文：16-20分。结构较完整，内容较全面，语言较流畅，不少于800字。以18分为基准上下浮动。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四类文：8-15分。凡是结构不清晰，内容一般，逻辑较乱，有语病，字数在700以上的。以12分为基准上下浮动。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五类文：7分以下。残篇，没有写完的。</p>",
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      }
+    ]
+  },
+  "code": 1000000
+}

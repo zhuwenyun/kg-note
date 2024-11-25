@@ -1,0 +1,183 @@
+{
+  "data": {
+    "essayPaper": {
+      "paperId": 3443,
+      "limitTime": 10800,
+      "score": 100.0,
+      "paperName": "2022年国考《申论》试卷（副省级）",
+      "correctNum": 0,
+      "recentStatus": 0,
+      "answerCardId": 0,
+      "courseId": 0,
+      "courseType": 0,
+      "areaId": 0,
+      "correctMode": 1,
+      "startTime": 0,
+      "endTime": 0,
+      "paperCorrectMode": 3
+    },
+    "essayQuestions": [
+      {
+        "sort": 1,
+        "questionBaseId": 10498,
+        "questionDetailId": 10382,
+        "stem": "2022年国考（副省级）：谈谈B公司的案例为企业科技创新提供了哪些启示",
+        "limitTime": 0,
+        "score": 10.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、根据“给定资料1”，请你谈谈B公司的案例为企业科技创新提供了哪些启示。（10分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：分析全面，条理清晰。不超过200字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 200,
+        "commitWordNumMax": 200,
+        "answerList": [
+          {
+            "questionId": 10382,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.提升差异化竞争力，做别人没做过的，进行超前研发。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.坚持市场思维，以市场为导向，按照市场需求来确定产品思路。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.营造激励创新的文化生态，采取前置激励，允许科研失败，投入充足研发经费，支持基础研究，坚持勇攀高峰的信念。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.拥有开放的理念，利用世界资源开展自主品牌建设。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.严格遵守国家知识产权保护相关规定。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 11811,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2022-05-20 14:23:00",
+            "gmtModify": "2022-06-10 16:47:37"
+          }
+        ],
+        "type": 6,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 2,
+        "questionBaseId": 10499,
+        "questionDetailId": 10383,
+        "stem": "2022年国考（副省级）：粮食产业发展中遇到了哪些问题并说明是如何解决的",
+        "limitTime": 1800,
+        "score": 15.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、根据“给定资料2”，请你谈谈G省在推进粮食产业发展中遇到了哪些问题，并逐一说明这些问题都是如何解决的。（15分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）提炼准确，归纳合理；（2）层次分明，分条表述：（3）不超过300字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 300,
+        "commitWordNumMax": 300,
+        "answerList": [
+          {
+            "questionId": 10383,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.问题：稻谷最低收购价高。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：构建全产业链经营模式，打造优质生产基地，推动品牌建设。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.问题：农业链条短、附加值低。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：创新农产品加工技术，对农产品进行深加工；围绕多种作物，构建各条产业链。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.问题：青壮年外出务工，劳动力不足。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：创建合作社，采取多样化的经营服务模式；出台政策文件，提升合作社质量，并将其纳入法治化管理轨道。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.问题：小农户生产长期存在。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：培育专业化服务组织，推广土地托管等模式，拓展农业社会化服务方向。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.问题：种业发展面临诸多挑战。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对策：坚持选育优质品种，建设制种基地、健全产业开发，加强科技创新和品牌创建。加大育种材料和人才投入，加强与研究院所的合作。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 11812,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2022-05-20 14:30:56",
+            "gmtModify": "2022-06-10 18:05:54"
+          }
+        ],
+        "type": 1,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 3,
+        "questionBaseId": 10500,
+        "questionDetailId": 10384,
+        "stem": "2022年国考（副省级）：草拟一份宣传材料",
+        "limitTime": 2400,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、为进一步开发乡村旅游产业，临诗村所在的向江县计划举办“畅游美丽渔村感受渔家文化”临诗村专场推介会。假如你是该县文化旅游局工作人员，请你草拟一份宣传材料，向参会的旅游企业和游客推介临诗村特色乡村游。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）紧扣资料，内容全面：（2）条理清晰，语言生动；（3）不超过500字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 500,
+        "commitWordNumMax": 500,
+        "answerList": [
+          {
+            "questionId": 10384,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;临诗村是一个以“渔”“隐”为主题的乡村旅游胜地，被评为“中国美丽休闲乡村”。多元文化的互动共生和交流融合，形成了当地独一无二的渔家文化。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里有独特的体验。在临诗，游客可以参观渔文化博物馆，领略渔文化发展史；参与休闲体验项目，体验水上传统劳作，参加渔民特色文化活动，走进“舌尖上的临诗”，感受渔家民俗风情。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里有一流的服务。临诗有丰富的旅游休闲设施及服务配套设施，为游客提供交通、餐饮、住宿、码头接船、攻略向导等一条龙服务。临诗通过渔家学堂，不仅提升了村民接待服务能力，更能促进渔民与游客的互动交流。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里有优美的环境。临诗村保存了原生态湿地，将乡村旅游发展与生态环境保护相融合，为游客提供了生态宜居的环境。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里有特色的产品。临诗村有丰富多样的旅游产品，通过网络营销宣传，提高了临诗的知晓度和影响力，吸引了越来越多的游客慕名前来。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎诸位来到临诗村，暂别城市喧嚣，在慢生活中愉悦身心。</p>",
+            "topic": "畅游美丽渔村 感受渔家文化",
+            "subTopic": "",
+            "callName": "尊敬的各位来宾：",
+            "inscribedDate": "XX年X月X日",
+            "inscribedName": "县文化旅游局",
+            "answerFlag": 0,
+            "id": 11813,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2022-05-20 14:33:55",
+            "gmtModify": "2022-06-10 17:17:16"
+          }
+        ],
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 4,
+        "questionBaseId": 10501,
+        "questionDetailId": 10385,
+        "stem": "2022年国考（副省级）：为什么说“未来学校”是“在更高的教育境界上来思考学校发展”又从哪些方面体现",
+        "limitTime": 0,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、根据“给定资料4”，请你谈谈为什么说“未来学校”是“在更高的教育境界上来思考学校发展”，又是从哪些方面体现的。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：全面、准确、有条理。不超过400字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 400,
+        "commitWordNumMax": 400,
+        "answerList": [
+          {
+            "questionId": 10385,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、原因：1.注重培养学生的独立人格和创新精神。2.以学生为中心，形成个性化的学习支持体系，将孩子培养成适应未来社会需求的人才。3.能够从源头上挖掘人类的潜能和智慧，尊重和成就每一个独特的个体，实现以人为中心和以社会需求为中心的融合。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、体现：（一）开放灵动的学习空间。1.建立标准学科教室，课桌可灵活拼接组合。2. 打破以常规教室为主的校舍建筑架构，创设多元学习空间和非正式学习空间。（二）灵活多元的学习方式。1.借助互联网技术和多媒体设备，引入多种教学资源。2.云课程等现代教育形态渗透到日常教学中。3.进行跨学科的课堂改革，采用多样化的教学方式。4.鼓励学生作业作品化，给学生提供展示和交流的平台。（三）能满足学生个性需求的多元课程体系。1.推行“走班制”，学生根据个人基础和兴趣选择课程，为学生提供私人订制教育。2.深度挖掘生活中的教育价值并开发课程；将课程外延与空间结合，设立真实情境。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 11814,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2022-05-20 14:36:49",
+            "gmtModify": "2022-06-10 18:16:10"
+          }
+        ],
+        "type": 6,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 5,
+        "questionBaseId": 10502,
+        "questionDetailId": 10386,
+        "stem": "2022年国考（副省级）：今天的思维和播种决定了我们未来收获",
+        "limitTime": 4200,
+        "score": 35.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、“给定资料5”中说：“今天的思维和播种，决定了我们未来的收获。＂请你结合对这句话的理解，参考给定资料，联系实际，自角度，自拟题目，写一篇文章。（35分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）观点明确，见解深刻；（2）参考给定资料，但不拘泥于给定资料；（3）思路清晰，语言流畅；（4）字数1000~1200字。</p>",
+        "inputWordNumMin": 900,
+        "inputWordNumMax": 1200,
+        "commitWordNumMax": 1200,
+        "answerList": [
+          {
+            "questionId": 10386,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一百多年前，十月革命一声炮响，给中国带来了马克思列宁主义；4年后在嘉兴南湖，中国共产党诞生；又过了28年，在天安门城楼，毛主席庄严宣告“中国人民从此站起来了”。2013年党的十八大明确提出要建设“人类命运共同体”，继而有了“一带一路”，有了亚投行。昨天的因造就了今天的果，今天的因自然也会造就明天的果，今天的思维和播种将决定我们未来的收获。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;昨天决定今天，当下连接未来。昨天决定今天。今天是昨天的未来，从互联网到物联网再到人工智能与生命技术，“正在发生的未来”越来越多，未来已来。但未来不是凭空出现的，未来是有迹可循的。人类自诞生之初，便畅想未来可以像鸟儿一样在天空飞翔，人们为了实现这个设想，经历了漫长的研究和努力，终于收获了今天的热气球、飞机、航天飞船等载人飞行设备。可以说，昨天的所思所为决定了今天的收获。当下连接未来。在时间的叙事长河中，今天和明天一脉相承、紧密相连，今天人类的一个行为，犹如种下了一枚种子，必将在不久的明天结出或善或恶的果实。今天人类无节制的浪费水资源，必将在明天上演“最后一滴水可能就是你的眼泪”的悲剧；今天人类注重生态环境保护，明天必将会让千疮百孔的地球重现勃勃生机。今天和明天犹如一个紧密连接的永恒的因果环，无法断开。所以，今天人类的每一个思维和行动，都将决定未来的收获。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拥有前瞻性思维方可赢得未来。司马相如说：“明者远见于未萌，而智者避于无形。”这就是前瞻性思维，意思是说明智的人在事情还没有发生之前就已经预见将要发生的事情，能够在预测中找准方向，在无形中避开灾祸。前瞻性思维很重要，它决定了人的一生是事业有成，还是碌碌无为。而对于领导者来说则显得更为重要，具有前瞻性思维的领导者，他懂得用战略眼光去看待和处理问题，是一种充满智慧的领导力。正如华为的成功，就是源自于任正非的前瞻性思维。当年任正非坚持投入巨大的人力财力做海思芯片“备胎”时，很多员工都不理解。任正非表示：“我们可能坚持做几十年都不用，但是还得做，一旦公司出现战略性的漏洞，我们就不是几百亿美元的损失，而是几千亿美元的损失。我们公司今天积累了这么多财富，这些财富可能就是因为那一个点，让别人卡住，最后死掉。”不久后，当美国全面打压、遏制华为发展的关键时刻，海思芯片、鸿蒙操作系统等“备胎”迅速“转正”，在美国的打压下，华为不仅没有被击败，反而愈挫愈勇，5G技术始终领先于美国。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历史未过，未来已来。静观天地变幻莫测，坐看世间潮起潮落，一切皆由昨日的思维和行为所定，今日所思所为也必将决定未来所得所获。展望未来扑朔迷离，期待明天竿头直上，唯有前瞻性思维方能预见未来、赢得未来。</p>",
+            "topic": " 今天的所思所为，决定未来的所得所获",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 11815,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2022-05-20 14:41:44",
+            "gmtModify": "2023-03-13 13:39:52"
+          }
+        ],
+        "type": 5,
+        "convertCount": 0,
+        "standAnswerType": 0
+      }
+    ]
+  },
+  "code": 1000000
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "essayPaper": {
+      "paperId": 1517,
+      "limitTime": 10800,
+      "score": 100.0,
+      "paperName": "2021年国考《申论》试卷（副省级）",
+      "correctNum": 0,
+      "recentStatus": 0,
+      "answerCardId": 0,
+      "courseId": 0,
+      "courseType": 0,
+      "areaId": 0,
+      "correctMode": 1,
+      "startTime": 0,
+      "endTime": 0,
+      "paperCorrectMode": 3
+    },
+    "essayQuestions": [
+      {
+        "sort": 1,
+        "questionBaseId": 4287,
+        "questionDetailId": 4171,
+        "stem": "2021年国考（副省级）：谈谈对“这些努力和奋斗所换来的，有形的会老去，无形的却能从此改变小谷村。”这句话的理解",
+        "limitTime": 0,
+        "score": 15.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、“给定资料1”中说，“这些努力和奋斗所换来的，有形的会老去，无形的却能从此改变小谷村。”请你根据“给定资料1”，谈谈对这句话的理解。（15分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：分析全面，条理清晰。不超过300字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 300,
+        "commitWordNumMax": 300,
+        "answerList": [
+          {
+            "questionId": 4171,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有形的是指硬件设施建设。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无形的包括：（1）村干部变得敢于任事，善于解决一些复杂的基层问题。（2）通过“桐华班”的筹办，村民们改变了对教育的认识，更加坚定的认识到教育对未来生活的重要作用。（3）小谷村集市的成功实践，改变了人们对小谷村贫困落后面貌的认识，对这片土地更加充满希望。（4）有了自己的商标和商业化思路，为未来的发展提供方向。（5）形成了勤劳致富的风气。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这句话旨在说明，这些无形的改变作用是农村变化的基础、作用更长远。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 5590,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2021-04-15 14:28:18",
+            "gmtModify": "2021-08-16 16:46:41"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按点给分，具体包括：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.有形的是指硬件设施建设。 （1分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.对无形的改变内容理解（10分），具体分为：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）村干部敢于任事，善于解决一些复杂的基层问题。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）村民们改变了对教育的认识，认识到教育对未来生活的重要作用。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）小谷村集市的成功实践，改变了人们对小谷村贫困落后面貌的认识，对这片土地更加充满希望。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）有了自己的商标和商业化思路，为未来的发展提供方向。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）形成了勤劳致富的风气。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.这句话旨在说明：无形的改变作用是农村变化的基础、作用更长远。（4分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注：逻辑不清晰，表达不通顺酌情扣1-3分。</p>",
+        "type": 8,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 2,
+        "questionBaseId": 4288,
+        "questionDetailId": 4172,
+        "stem": "2021年国考（副省级）：概括“局区合一”改革的背景、措施和成效。",
+        "limitTime": 1500,
+        "score": 10.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“给定资料2”中，S市进行了“局区合一”改革，请你概括这项改革的背景、措施和成效。（10分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：全面、准确、有条理。不超过250字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 250,
+        "commitWordNumMax": 250,
+        "answerList": [
+          {
+            "questionId": 4172,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;背景：为改变产业功能区协调办、二传手的角色；解决产业功能区职能弱、功能不齐备的问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;措施：（1）职能整合。按照关联程度实行局区职能整合，关联程度最高的为主体局，紧密联系的为职能局或事项局，更好地聚焦企业服务和经济发展。（2）联署办公。把“两个班子、两套人员”变为“一个班子、一套人员”。（3）机构优化。压缩机构编制，精准定岗定责，探索“首席+专员”岗位设置方式，形成了管理运行新格局。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;成效：（1）大大压缩了企业与项目开办开工的审批时间；（2）产业功能区的资源也得到有效整合，产业规模加速壮大。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 5591,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2021-04-15 14:30:49",
+            "gmtModify": "2021-04-15 14:30:49"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按点给分，具体包括：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.背景：解决产业功能区职能弱、功能不齐备的问题。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.措施：职能整合（2分）联署办公（2分）机构优化（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.成效：产业功能区的资源也得到有效整合，产业规模加速壮大。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注：逻辑不清晰，表达不通顺酌情扣1-2分</p>",
+        "type": 1,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 3,
+        "questionBaseId": 4289,
+        "questionDetailId": 4173,
+        "stem": "2021年国考（副省级）：地方志编纂工作的“冷与热”",
+        "limitTime": 2100,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、请你根据“给定资料3”，回答下列两个问题。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.谈谈什么是地方志编纂工作的“冷与热”。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.假如你是F市地方志办公室编纂处的工作人员，请根据讨论内容，按照“将冷的工作做热”的工作思路，起草该处下一步的工作要点。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）准确全面，简明扼要，条理清晰；（2）工作要点包括工作任务及其工作措施；（3）总字数不超过400字。</p>",
+        "inputWordNumMin": 1,
+        "inputWordNumMax": 400,
+        "commitWordNumMax": 400,
+        "answerList": [
+          {
+            "questionId": 4173,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、地方志编纂的“冷”是说部门是冷线、冷门工作，辛苦的工作；“热”就是指价值高，能存史、育人和资政。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、将地方志“冷”的工作做“热”的工作要点：<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）存史。1.任务：选好材、存好史。2.措施：（1）沉下心，树立正确的认识。不要在乎冷与热，认识到冷也可以做热。（2）要将存史与资政和育人相结合，多选取反映社会实践中正能量的素材，多选取能够利于育人和资政的素材。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）育人。1.任务：走出去。2.措施：（1）收集史料要走出去，多收集大政方针、政策实施，先进事迹、典型案例与风土人情等；（2）传播形式上要“走出去”，要转变工作思路，采用更加生动活泼的传播方式。如故事书、青少年课程等。（3）善于挖掘、梳理和萃取中华传统文化思想精华，让传统文化价值向当代转化。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（三）资政。1.任务：摆正智库的位置。2.措施：要加强调研，根据地方志资料，结合社会生活的重大课题，为经济建设提供有价值的材料。</p>",
+            "topic": "",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 5592,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2021-04-15 14:33:42",
+            "gmtModify": "2021-04-15 14:33:42"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按点给分，具体包括：10个给分点，每点2分，计20分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.冷是冷门工作、辛苦的工作；热是有价值，能存史、育人和资政。 （2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.存史的任务在选材。措施在（1）沉下心，不要在乎冷与热，认识到冷也可以做热。（2）选取有利于育人和资政的好材料。（6分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.育人的任务是走出去。措施在（1）史料的收集走出去；（2）传播的形式走出去；（3）萃取传统文化精华。（8分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.资政的任务在于要摆正自身智库的位置。措施在于要调研，要为经济社会发展提供有价值的史料。（4分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注：逻辑不清晰，表达不通顺酌情扣1-3分</p>",
+        "type": 3,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 4,
+        "questionBaseId": 4290,
+        "questionDetailId": 4174,
+        "stem": "2021年国考（副省级）：为《江城日报》即将发表的这篇报道写一则短评",
+        "limitTime": 2400,
+        "score": 20.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、请你根据“给定资料4”，为《江城日报》即将发表的这篇报道写一则短评。（20分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求：（1）观点明确，简明深刻；（2）紧扣资料，重点突出；（3）有逻辑性，语言流畅；（4）不超过500字。</p>",
+        "inputWordNumMin": 100,
+        "inputWordNumMax": 500,
+        "commitWordNumMax": 500,
+        "answerList": [
+          {
+            "questionId": 4174,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江城博物院为特殊观众专设了一个博爱馆。馆内设计细致、贴心、专业，让特殊群体可听、可摸、可操作，让特殊群体可以有尊严、自主地参观展览，起了很好的示范作用。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一方面，在展品与选材上非常考究。考虑到观众的特需情况，经过多轮筛选和残障志愿者的测试，在60余万件文物，以真实材料复制的40多件展品。展品不仅体现博物院深厚的文化底蕴，也与现代生活有关联、能想象、可互动。虽然是复制，但材质要与文物本身的材质相同，从而保证获得原材质的触感。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一方面，考虑到参观群体的特殊性和差异性，在选馆位置与内部构造设计上都设计得非常细致、贴心、有针对性。位置位于一层避免了拥挤，降低了噪音；采用玻璃顶采光，满足弱视群体需要；馆内盲道的铺设也更清晰，引进了用于视行障碍的全自动导览车；在展厅的不同区域，展品类型、现场布置、光线明暗等均有所不同；博爱馆里还专设的“盲文点显器”可以介绍文物的历史背景、构造功能等信息，提高特殊群体的体验感与观赏兴趣。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博物院以用户为导向，并不断深化服务意识，建立了意见反馈机制，认真听取参观者的建议并积极加以改善。其思路与经验值得大家学习！</p>",
+            "topic": "江城院馆，以爱博物",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 1,
+            "id": 5593,
+            "bizStatus": 1,
+            "status": 1,
+            "creator": "",
+            "modifier": "",
+            "gmtCreate": "2021-04-15 14:37:29",
+            "gmtModify": "2021-04-15 14:37:29"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按点给分，具体包括：10个给分点，每点2分，计20分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.内容分15分，分四个方面体现。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;整体介绍与评价。（2分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;展品选材考究，力求真实。 （5分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;细节追求完美，细致贴心。 （5分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深化服务意识，建立机制。 （3分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.逻辑与表达分5分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逻辑上，有标题，层次分明，结构完整。给2分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表达上，语言流畅，无病句、无错别字给3分。若有酌情减分。</p>",
+        "type": 4,
+        "convertCount": 0,
+        "standAnswerType": 0
+      },
+      {
+        "sort": 5,
+        "questionBaseId": 4291,
+        "questionDetailId": 4175,
+        "stem": "2021年国考（副省级）：理解“夜色难免黑凉，前行必有曙光” “我们的改革之所以成功，离不开务实的精神和理性的思考”两句话，写一篇文章",
+        "limitTime": 4200,
+        "score": 35.0,
+        "answerRequire": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、“给定资料1”中说，“<u>夜色难免黑凉，前行必有曙光</u>”，“给定资料2”中说“<u>我们的改革之所以成功，离不开务实的精神和理性的思考</u>”。请深入理解这两句话的含义，参考给定资料，联系实际，自拟题目，写一篇文章。（35分）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求： （1）观点明确，见解深刻；（2）参考“给定资料”，但不拘泥于“给定资料”；（3）思路清晰，语言流畅；（4）字数1000～1200字。</p>",
+        "inputWordNumMin": 1000,
+        "inputWordNumMax": 1300,
+        "commitWordNumMax": 1300,
+        "answerList": [
+          {
+            "questionId": 4175,
+            "answerComment": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“夜色难免黑凉，前行必有曙光”意思是说在工作中无论遇到何种艰难困苦，只要勇于向前必定能够成功；“我们的改革之所以成功，离不开务实的精神和理性的思考”意思是说改革要获得成功依靠的是务实的精神和理性的思考。改革也可以视作是一项大的工作，将这两句话结合起来思考：无论是改革还是具体的社会工作都要依靠不畏艰难的气魄、理性的思考和真干实干的务实精神。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;气魄是勇敢、是胆识、也是自信。气魄源自于责任的不可推卸性，也源自于对当下和未来形势的自信。无论是改革，还是具体工作，想要成功都要有不畏艰难的气魄。改革开放自不必说，没有这种责任和自信支撑下的气魄是不可能成功的！具体工作更不例外，以抗疫为例：在新冠疫情爆发的时候，我们为什么能够做出封城、“封国”的决策？为什么美国、印度做不到？就是因为我们有“以人为本”“全心全意为人民服务”的施政责任，就是因为我们社会主义制度能够集中精力办大事的制度优势。反过来说，如果没有这种自信和责任支撑起来的气魄，任何事情也很难成功，美国、印度的疫情就是如此！<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;理性思考重在理性，而不仅在于思考，没有理性的思考就是胡思乱想，不仅无益而且有害！这种理性思考要求我们在实际工作中能够实事求是、求真务实。习近平总书记强调：我们研究问题、制定政策、推进工作，刻舟求剑不行，闭门造车不行，异想天开更不行。当前现实中，很多互联网企业不顾社会的现实诉求，一味的追求“创新”。简单的追求“大、快、新”，导致很多企业负债累累，破产成为了必然！这种思考就是丧失理性的，必然失败。S市针对过去产业功能区职能太弱、功能不齐备的问题，在充分调查的基础上进行理性思考，最终实现了“局区合一”的变革，充分发挥了理论和制度的效能，实现了预期目标。由此可以看出，不思考不行，胡思乱想也不行，只有将思考和理性相结合才能获得成功。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无论是改革，还是具体工作，想要成功更需实干的务实精神。知行是合一，知行也必须要合一。气魄还是理性的思考都可以定义为“知”的层面。只有“知”没有“行”也谈不上成功。一切事业都是干出来的。所以要大力弘扬“务实”精神，“实”字打头、“干”字当头，才能行稳致远。古今中外，同此一理！大到改革开放、航天工程，小到民生日用，家长里短都是如此。但是实干也必须和气魄与理性相结合。没有气魄的支持，实干也迈不开步伐；没有理性思考的支持，实干就会迷失方向或裹足不前。所以，我们的务实精神是包含着不畏艰难的气魄，也包含着理性的思考。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当前，世界正面临百年未有之大变局，发展的路上充满着很多错综复杂的问题和矛盾。面对问题与矛盾我们必须要有不畏艰难的气魄、也要有冷静而理性的思考、更要有真干实干的务实精神，只有这样才能获得改革的成功、国家的成功、民族的成功！</p>",
+            "topic": "气魄  理性  务实",
+            "subTopic": "",
+            "callName": "",
+            "inscribedDate": "",
+            "inscribedName": "",
+            "answerFlag": 0,
+            "id": 5594,
+            "bizStatus": 1,
+            "status": 1,
+            "gmtCreate": "2021-04-15 14:41:41",
+            "gmtModify": "2021-12-16 15:20:14"
+          }
+        ],
+        "correctRule": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一等（31-35分）完全符合答题要求<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）切合题意；（2）内容充实，联系实际，举例贴切；（3）思路明晰，结构严谨，层次清晰；（4）语言流畅，书写规范工整；（5）不足1000字不能进一等。以33分为基准，适当浮动。基本具备以上条件者，可获基准分；某一方面比较突出的，适当加分；反之，酌情减分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二等（21-30分）基本符合答题要求<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）符合题意；（2）内容充实，能够联系实际，举例适当；（3）思路清楚，结构完整，层次清楚；（4）语言通顺，书写规范工整；（5）不足1000字不能进二等。以26分为基础，适当浮动。基本具备以上条件者，可获基准分；某一方面比较突出的，适当加分；反之，酌情减分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三等（11-20分）基本符合答题要求<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）基本符合题意；（2）有一定内容，联系实际不足，举例不当；（3）思路基本清楚，结构基本完整；（4）语言基本通顺，书写基本规范；（5）不足800字不能三等。以15分为基准，适当浮动。基本具备以上条件者，可获基准分；某一方面略好，适当加分；反之，酌情减分。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四等（0-10分）不符合答题要求<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）偏离题意；（2）内容空泛，没有联系实际，缺少例证；（3）思维混乱，结构基本完整；（4）语言不通顺，有语病，书写不规范；（5）不足800字。以5分为基准，适当浮动。基本具备以上条件者，可获基准分；某一方面略好，适当加分 反之，酌情减分。残篇统一给6分。</p>",
+        "type": 5,
+        "convertCount": 0,
+        "standAnswerType": 0
+      }
+    ]
+  },
+  "code": 1000000
+}
